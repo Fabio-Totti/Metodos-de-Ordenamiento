@@ -1,5 +1,4 @@
-
-
+# Metodos de Ordenamiento
 
 El ordenamiento es una labor común que realizamos continuamente. ¿Pero te has preguntado qué es ordenar? ¿No? Es que es algo tan corriente en nuestras vidas que no nos detenemos a pensar en ello. Ordenar es simplemente colocar información de una manera especial basándonos en un criterio de ordenamiento.
 
